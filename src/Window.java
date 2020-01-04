@@ -148,11 +148,11 @@ public class Window extends JFrame {
                 Thread.sleep(5);
                 // uncomment to save the simulation state as png in files/simulation_captures/ folder
                 // try to make the thread sleep according to your computer performance
-
+                /*
                 saveState(simulation_counter);
                 ++simulation_counter;
                 Thread.sleep(100);
-                
+                */
             } catch(Exception e){ e.printStackTrace(); }
         }
     }
