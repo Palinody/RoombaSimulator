@@ -7,6 +7,7 @@ Agents:
 * 2 IR sensors (2 float)
 * 1 fixed thermal camera (4 float)
 * 2 bumpers (2 boolean)
+* 4 action visualizers that help keeping track of the action beeing performed (forward, turn left, turn right, backward)
 
 Environement:
 * Walls (lines) generated at specified positions
