@@ -9,6 +9,8 @@ Agents:
 * 2 bumpers (2 boolean)
 * 4 action visualizers that help keeping track of the action beeing performed (forward, turn left, turn right, backward)
 
+Agents do not collide with each other.
+
 Environement:
 * Walls (lines) generated at specified positions
 * Walls (lines), generated randomly, that do not cross agents
