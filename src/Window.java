@@ -9,10 +9,6 @@ import Utils.ColorPalette;
 import Utils.PRNG;
 import Math.Matrix;
 
-import org.encog.engine.network.activation.ActivationReLU;
-import org.encog.engine.network.activation.ActivationTANH;
-import org.encog.engine.network.activation.ActivationSoftMax;
-
 public class Window extends JFrame {
 
     public static void main(String[] args){
