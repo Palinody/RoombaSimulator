@@ -16,5 +16,8 @@ Environement:
 * Walls (lines), generated randomly, that do not cross agents
 * A heat source that the thermal camera can detect
 
+Utils:
+* Save simulation states as png
+
 ## Preview
 ![test161](https://user-images.githubusercontent.com/32341154/71769455-f17abb00-2f21-11ea-8247-f877d3d10b85.png)
